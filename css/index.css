@@ -5,12 +5,17 @@ font-weight: 400;
 font-style: normal;
      
 }
-	#Favorites { padding-left: 37px }
-	#Favorites { padding-right: 13px }
-        #TV { padding-right: 22px }
-        #Movies { padding-right: 17px }
-        #Sports { padding-right: 27px }
-        #TV Tag { padding-right: 27px }
+	#Favorites { padding-left: 34px }
+	#Favorites { padding-right: 8px }
+       #Favorites { vertical-align: 50px }
+        #TV { padding-right: 20px }
+        #TV { vertical-align: 50px  }
+        #Movies { padding-right: 15px }
+        #Movies { vertical-align: 50px }
+        #Sports { padding-right: 23px }
+        #Sports { vertical-align: 50px }
+        #TVTag { padding-right: 20px }
+        #TVTag { vertical-align: 50px } 
 
 html, body {
     margin: 0;
